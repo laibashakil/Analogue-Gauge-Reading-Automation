@@ -17,7 +17,7 @@ The Python script utilizes OpenCV and NumPy libraries for image processing tasks
 5.  **Morphological Operations**: Erosion and dilation operations are applied to remove noise and restore the original object size, mitigating the impact of glare and shadow.
 6.  **Smoothing**: Median and Gaussian filtering techniques are employed to further reduce noise and enhance image quality, contributing to more accurate needle detection.
 
-The script provides visualizations of intermediate and final results using matplotlib.
+![download](https://github.com/laibashakil/Analogue-Gauge-Reading-Automation/assets/96187426/89810ae2-bfa5-4d3f-ae5f-fbbbad7655e4)
 
 ## Challenges Faced
 
